@@ -1,2 +1,2 @@
-# teputils
-A mod for TEP
+# TEP Utils
+Travel Earth Plan's original mod.
