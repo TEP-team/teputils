@@ -12,5 +12,6 @@ public class ModItems {
     public static final Item HEAD_DARK = new ItemBase("head_dark");
     public static final Item HEAD_FURONG = new ItemBase("head_furong");
     public static final Item HEAD_YW = new ItemBase("head_yw");
+    public static final Item HEAD_SKY = new ItemBase("head_sky");
 
 }
